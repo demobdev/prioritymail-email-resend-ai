@@ -15,7 +15,7 @@ const PrivacyPolicyPage = () => {
                         Introduction
                     </h3>
                     <p className="text-justify leading-relaxed text-gray-600 mt-5 mb-10">
-                        Normal Human (“Normal Human,” “we,” “us,” or “our”) we value your privacy and are committed to protecting
+                        MailShift (“MailShift,” “we,” “us,” or “our”) we value your privacy and are committed to protecting
                         and processing your personal information responsibly. This Privacy Statement describes how we collect, use, and
                         share the personal information described in this Privacy Statement, as well as the rights and choices individuals have
                         regarding such personal information. We may provide additional data privacy information by using a supplementary
@@ -83,7 +83,7 @@ const PrivacyPolicyPage = () => {
                     </h3>
                     <p className="text-justify leading-relaxed text-gray-600 mt-5 mb-10">
                         We may share your personal information internally and externally with suppliers, advisors, or Business Partners for
-                        Normal Human’s legitimate business purposes, and only on a need-to-know basis. When sharing personal information,
+                        MailShift’s legitimate business purposes, and only on a need-to-know basis. When sharing personal information,
                         we implement appropriate checks and controls to confirm that the information can be shared in accordance with the
                         applicable law. This section describes how we share information and how we facilitate that sharing.
                     </p>
